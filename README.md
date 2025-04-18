@@ -2,19 +2,22 @@
 # Overview
 Near-Infrared Spectroscopy (NIR or NIRS) is a rapid, nondestructive, and cost-effective technique for material recognition. Operating in the 780–2500 nm range, it penetrates samples deeply with minimal preparation and enables simultaneous, high-precision analysis. Unlike traditional chemical methods, NIR delivers faster results and functions well in low-light, real-time, or embedded applications.
 
+<p align="center"> 
+<img src="images/objects.jpg" alt="sample" width="560"/></p>
+
 # NIR_dataset
 We constructed a near-infrared (NIR) spectral dataset comprising common daily-use objects across six material categories: ceramic, wood, plastic, cardboard, stainless steel, and glass. For ceramic, wood, plastic, and cardboard, ten objects per category were selected, while nine stainless steel and five glass objects were included. Each object contributed ten samples for spectral measurement. For larger items such as plates, pans, and cardboard boxes, approximately 30 scans per sample were collected, whereas smaller objects like spoons, forks, and plastic cups had fewer scans. In total, the dataset consists of 15,936 spectra, capturing a diverse range of material characteristics for NIR analysis.
 
 
 <p align="center"> 
-<img src="images/spectra.jpg" alt="dexDual" width="560"/></p>
+<img src="images/spectra.jpg" alt="dataset" width="560"/></p>
 
 
 # Data Preporcessing
 
 Standard Normal Variate (SNV) is used to preprocess the data to improve the performance of the material recognition algorithm.
 <p align="center">
-<img src="images/preporcess.jpg" alt="dexDual" width="560"/></p>
+<img src="images/preporcess.jpg" alt="preprocessing" width="560"/></p>
 
 # Material Recognition
 
