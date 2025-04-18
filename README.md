@@ -18,7 +18,7 @@ Standard Normal Variate (SNV) is used to preprocess the data to improve the perf
 
 # Material Recognition
 
-A sample multilayer perceptron (MLP) deep learning network, implemented in **nir_mlp.py**, is provided as a baseline model for material classification using the collected NIR spectral dataset.
+A sample multilayer perceptron (MLP) deep learning network, implemented in **nir_mlp.py** using pytorch, is provided as a baseline model for material classification using the collected NIR spectral dataset. 
 
 # Publications
 
