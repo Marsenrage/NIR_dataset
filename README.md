@@ -4,7 +4,7 @@ Near-Infrared Spectroscopy (NIR or NIRS) enables material analysis at the molecu
 
 Knowing the material can help infer object features such as stiffness, friction, and weight, which are critical for effective robotic manipulation.
 <p align="center"> 
-<img src="images/example.jpg" alt="sample" width="620"/></p>
+<img src="images/example.jpg" alt="sample" width="660"/></p>
 
 # NIR_dataset
 We constructed a near-infrared (NIR) spectral dataset comprising common daily-use objects across six material categories: ceramic, wood, plastic, cardboard, stainless steel, and glass. For ceramic, wood, plastic, and cardboard, ten objects per category were selected, while nine stainless steel and five glass objects were included. Each object contributed ten samples for spectral measurement. For larger items such as plates, pans, and cardboard boxes, approximately 30 scans per sample were collected, whereas smaller objects like spoons, forks, and plastic cups had fewer scans. In total, the dataset consists of 15,936 spectra, capturing a diverse range of material characteristics for NIR analysis.
