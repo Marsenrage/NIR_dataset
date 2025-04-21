@@ -1,6 +1,6 @@
 
 # Overview
-Near-Infrared Spectroscopy (NIR or NIRS) enables material analysis at the molecular level. It penetrates samples deeply with minimal preparation and allows simultaneous, high-precision measurements. Unlike traditional chemical methods, NIR provides faster results, operates effectively in low-light and real-time conditions, and does not damage the object. Knowing the material can help infer object features such as stiffness, friction, and weight, which are critical for effective robotic manipulation.
+Near-Infrared Spectroscopy (NIR or NIRS) enables material analysis at the molecular level. It penetrates samples deeply with minimal preparation and allows simultaneous, high-precision measurements. Unlike traditional chemical methods, NIR offers faster results, operates effectively in low-light conditions, and enables real-time analysis without damaging the sample. Material recognition can help infer key object properties such as stiffness, friction, and weight—critical features for enabling precise and adaptive robotic manipulation.
 
 <p align="center"> 
 <img src="images/example.jpg" alt="sample" width="700"/></p>
