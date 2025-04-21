@@ -60,7 +60,7 @@ This dataset is used in the following paper:
     @inproceedings{li2018magichand,
       title={Magichand: In-hand perception of object characteristics for dexterous manipulation},
       author={Li, Hui and Yihun, Yimesker and He, Hongsheng},
-      booktitle={Social Robotics: 10th International Conference, ICSR 2018, Qingdao, China, November 28-30, 2018, Proceedings 10},
+      booktitle={Social Robotics: 10th International Conference, ICSR 2018},
       pages={523--532},
       year={2018},
       organization={Springer}
