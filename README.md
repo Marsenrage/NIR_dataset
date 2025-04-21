@@ -32,6 +32,7 @@ This paper proposes a task-oriented dexterous grasping framework that enables ro
 
 <p align="center"> 
 <img src="images/icra2021.jpg" alt="dexDual" width="680"/></p>
+
     @inproceedings{li2021learning,
       title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
       author={Li, Hui and Zhang, Yinlong and Li, Yanan and He, Hongsheng},
@@ -49,6 +50,7 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
 
 <p align="center"> 
 <img src="images/icra2020.jpg" alt="dexDual" width="680"/></p>
+
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
       author={Li, Hui and Tan, Jindong and He, Hongsheng},
