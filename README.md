@@ -56,3 +56,13 @@ This dataset is used in the following paper:
       organization={IEEE}
     }
 [[download paper](https://ieeexplore.ieee.org/document/8593886)]
+
+    @inproceedings{li2018magichand,
+      title={Magichand: In-hand perception of object characteristics for dexterous manipulation},
+      author={Li, Hui and Yihun, Yimesker and He, Hongsheng},
+      booktitle={Social Robotics: 10th International Conference, ICSR 2018, Qingdao, China, November 28-30, 2018, Proceedings 10},
+      pages={523--532},
+      year={2018},
+      organization={Springer}
+    }
+[[download paper](https://link.springer.com/chapter/10.1007/978-3-030-05204-1_51)]
