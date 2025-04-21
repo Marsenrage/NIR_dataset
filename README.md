@@ -1,9 +1,10 @@
 
 # Overview
-Near-Infrared Spectroscopy (NIR or NIRS) is a rapid, nondestructive, and cost-effective technique for material recognition. Operating in the 780–2500 nm range, it penetrates samples deeply with minimal preparation and enables simultaneous, high-precision analysis. Unlike traditional chemical methods, NIR delivers faster results and functions well in low-light, real-time, or embedded applications.
+Near-Infrared Spectroscopy (NIR or NIRS) enables material analysis at the molecular level. It penetrates samples deeply with minimal preparation and allows simultaneous, high-precision measurements. Unlike traditional chemical methods, NIR provides faster results, operates effectively in low-light and real-time conditions, and does not damage the object.
 
+Knowing the material can help infer object features such as stiffness, friction, and weight, which are critical for effective robotic manipulation.
 <p align="center"> 
-<img src="images/objects.jpg" alt="sample" width="560"/></p>
+<img src="images/example.jpg" alt="sample" width="540"/></p>
 
 # NIR_dataset
 We constructed a near-infrared (NIR) spectral dataset comprising common daily-use objects across six material categories: ceramic, wood, plastic, cardboard, stainless steel, and glass. For ceramic, wood, plastic, and cardboard, ten objects per category were selected, while nine stainless steel and five glass objects were included. Each object contributed ten samples for spectral measurement. For larger items such as plates, pans, and cardboard boxes, approximately 30 scans per sample were collected, whereas smaller objects like spoons, forks, and plastic cups had fewer scans. In total, the dataset consists of 15,936 spectra, capturing a diverse range of material characteristics for NIR analysis.
@@ -21,7 +22,7 @@ Standard Normal Variate (SNV) is used to preprocess the data to improve the perf
 
 # Material Recognition
 
-A sample multilayer perceptron (MLP) deep learning network, implemented in **nir_mlp.py** using pytorch, is provided as a baseline model for material classification using the collected NIR spectral dataset. 
+A sample Multilayer Perceptron (MLP) deep learning network, implemented in *nir_mlp.py* using PyTorch, is provided as a baseline model for material classification using the collected NIR spectral dataset. A Bayesian neural network is also included for classifying the NIR spectra.
 
 # Publications
 
