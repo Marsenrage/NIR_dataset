@@ -62,22 +62,22 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
 
 Visit the [paper](files/ICRA2020.pdf) for more information.
 
-## Learning robotic grasping strategy based on natural-language object descriptions
-This paper presents a learning-based approach for determining grasping strategies for an anthropomorphic robotic hand using natural-language descriptions of objects. A customized natural language processing technique is used to extract object features, which are then mapped to appropriate grasp types based on a human grasp taxonomy. The proposed method is evaluated through both simulation and real-world experiments using an AR10 robotic hand, demonstrating its effectiveness in generating suitable grasp strategies from linguistic input.
+## Object Recall from Natural-Language Descriptions for Autonomous Robotic Grasping
+This paper proposes a method to endow robots with a human-like object recall ability for grasp planning. Inspired by how humans estimate feasible grasps based on prior interactions and object descriptions, the approach models object memory using a dataset of physical features. A joint probability distance metric is introduced to match natural language descriptions to reference object features, enabling object identification and informed grasp selection. Experiments demonstrate the accuracy of the recall mechanism and its effectiveness in grasping with an anthropomorphic robotic hand.
 
 <p align="center"> 
-<img src="images/second.jpg" alt="dexDual" width="500"/></p>
+<img src="images/robio.jpg" alt="dexDual" width="500"/></p>
 
-    @inproceedings{rao2018learning,
-      title={Learning robotic grasping strategy based on natural-language object descriptions},
-      author={Rao, Achyutha Bharath and Krishnan, Krishna and He, Hongsheng},
-      booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={882--887},
-      year={2018},
+    @inproceedings{rao2019object,
+      title={Object recall from natural-language descriptions for autonomous robotic grasping},
+      author={Rao, Achyutha Bharath and Li, Hui and He, Hongsheng},
+      booktitle={2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+      pages={1368--1373},
+      year={2019},
       organization={IEEE}
     }
 
-Visit the [paper](files/Bharath_IROS.pdf) for more information.
+Visit the [paper](files/ROBIO.pdf) for more information.
 
 
 ## Magichand: In-hand perception of object characteristics for dexterous manipulation
